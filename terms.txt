@@ -1,0 +1,39 @@
+Terms of Service
+
+Effective Date: 12/28/24
+
+By using this Application, you agree to these Terms of Service (“Terms”). Please read them carefully.
+
+1. Use of the Application
+
+Non-Commercial Use Only: This Application is provided as a hobbyist project and is intended for personal, non-commercial use.
+
+No Guarantees: The Application is provided “as-is” without any warranties or guarantees.
+
+2. User Responsibilities
+
+Compliance: You agree to use the Application in compliance with all applicable laws.
+
+No Misuse: You will not misuse the Application in ways that could harm others or violate any applicable regulations.
+
+3. Limitations of Liability
+
+We are not responsible for any damages or losses resulting from your use of the Application. Your use of the Application is at your own risk.
+
+4. Intellectual Property
+
+Ownership: All intellectual property related to the Application remains the property of its creator(s).
+
+Open-Source Components: If the Application includes open-source components, those components are governed by their respective licenses.
+
+5. Termination
+
+We reserve the right to discontinue or modify the Application at any time without notice.
+
+6. Changes to These Terms
+
+We may update these Terms from time to time. Any changes will be posted at https://github.com/rythta/thermostat.
+
+7. Contact Us
+
+If you have questions about these Terms, you can contact us at rythtayl@gmail.com
